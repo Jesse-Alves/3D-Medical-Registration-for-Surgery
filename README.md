@@ -74,7 +74,7 @@
 This report presents the development and validation of a registration and positioning procedure for medical procedures using a Cartesian robot, endoscopic camera, and localization system. The procedure involves the use of Effector-Marker calibration and Triangulation to accurately position the instrument in the target. The feedback control system ensures that the instrument is positioned correctly and provides real-time feedback to the surgeon. The report compares the advantages and disadvantages of using only the endoscopic camera versus using the navigation system to perform the registration task. The results show that while using only the endoscopic camera can be cheaper, using the navigation system is a more robust solution. Overall, this report provides valuable insights into the implementation of a real-life solution to a medical task using 3D medical robotic registration.
 
 Keywords: Medical robotics, registration, localization system, feedback control, endoscopic camera, triangulation.
-[Full article]()
+[Full article](https://github.com/Jesse-Alves/3D-Medical-Registration-for-Surgery/blob/main/3D%20Medical%20Registration%20Report.pdf)
 
 <!--
 <p float="left">
@@ -163,9 +163,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-All the codes of the project are available [here]().  
+All the codes of the project are available [here](https://github.com/Jesse-Alves/3D-Medical-Registration-for-Surgery/tree/main/Codes).  
 
-More details about the project can be found in the [article]() attached.
+More details about the project can be found in the [article](https://github.com/Jesse-Alves/3D-Medical-Registration-for-Surgery/blob/main/3D%20Medical%20Registration%20Report.pdf) attached.
 
 
 
