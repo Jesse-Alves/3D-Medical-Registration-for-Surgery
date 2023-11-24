@@ -85,7 +85,7 @@ Keywords: Medical robotics, registration, localization system, feedback control,
 
 <div align="center">
   <a href="https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/blob/main/Pose_Estimation_3D_Registration.pdf">
-    <img src="images/img.jpg" width="500" height="450" />
+    <img src="images/img.jpg" width="400" height="350" />
   </a>
 </div>
 
